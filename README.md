@@ -116,10 +116,5 @@ You can run the script in any MySQL-compatible client such as MySQL Workbench or
 
 ---
 
-## ✍️ Author
 
-**Udit Gupta**  
-B.E. Computer Science  
-Thapar Institute of Engineering and Technology  
-[LinkedIn](#) | [GitHub](#)
 
